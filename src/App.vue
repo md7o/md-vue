@@ -9,7 +9,7 @@
 import ListHeader from "@/components/global/ListHeader.vue";
 
 export default {
-  name: "Title",
+  name: "App",
   components: {
     ListHeader,
   },
